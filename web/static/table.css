@@ -1,0 +1,19 @@
+table {
+    margin: 0 auto;
+    padding: 0;
+}
+tr {
+    width: 1035px;
+}
+td,th {
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+}
+.page-nav {
+    font-size: 20px;
+;
+}
+.page-nav #pn_input {
+    width: 35px;
+}
